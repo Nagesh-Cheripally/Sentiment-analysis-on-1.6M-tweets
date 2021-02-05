@@ -14,7 +14,7 @@ Dataset consists of 1.6 Millions of Tweets
 <img src = "Preprocessed Text.png">
 
 ## Detected Language
-<img src = "Language detection %.png">
+<img src = "Screenshot_2021-02-05 Google Colaboratory.png">
 
 ## Pie Chart
 <img src = "Pie_Chart.png">
