@@ -1,6 +1,6 @@
 # Sentiment-analysis-on-1.6M-tweets
 ## Dataset
-Data set consists of 1.6 Millions of Tweets
+Dataset consists of 1.6 Millions of Tweets
 
 <img src = "Dataset Preview.png">
 <img src = "dataset shape.png">
